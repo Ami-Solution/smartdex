@@ -29,6 +29,7 @@ export const environment = {
   currencies: [
     '1ST',
     'ADT',
+    'AMIS,
     'ANT',
     'BAT',
     'BNT',
