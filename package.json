@@ -4,8 +4,8 @@
   "license": "unlicensed",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
-    "start2": "ng build --prod --env=prod",
+    "start1": "ng serve",
+    "start": "ng build --prod --env=prod && ng serve",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
